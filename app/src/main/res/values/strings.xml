@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vivid Pro V1</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="enhance">Enhance</string>
+    <string name="save">save</string>
+    <string name="share">share</string>
+</resources>
